@@ -1,6 +1,6 @@
 module github.com/ipfs/go-ipfs-util
 
-go 1.18
+go 1.19
 
 require (
 	github.com/mr-tron/base58 v1.1.3
